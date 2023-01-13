@@ -14,3 +14,4 @@ shit = str(shit)
 #temp = input("who is going to win fantasy: ")
 #print("winner is " + temp)
 
+print
