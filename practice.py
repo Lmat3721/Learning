@@ -1,17 +1,10 @@
-first = "lucas"
-last = "matthews"
-#print(f"{first} {last}")
+# set number of cars sold an hour
+cars_sold_hour = 13
 
-shit = 0
-shit = str(shit)
-#print(shit)
+#set number of cars sold a day
+cars_sold_day = cars_sold_hour * 24
 
-#truth = "Who is going to win fantasy?"
-#print(truth)
-#truthh = "Lucas"
-#print(truthh)
+#Set number of cars sold a week
+cars_sold_week = cars_sold_day * 7
 
-#temp = input("who is going to win fantasy: ")
-#print("winner is " + temp)
-
-print
+print (cars_sold_week)
